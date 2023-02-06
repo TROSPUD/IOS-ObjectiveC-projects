@@ -1,15 +1,3 @@
-# 现代操作系统应用开发 实验3
-
-## 个人信息
-
-【院系】计算机学院
-
-【专业】软件工程
-
-【学号】20337037
-
-【姓名】洪梓
-
 ## 实验题目
 
 网络访问和本地存储
@@ -606,12 +594,3 @@ cell.imageView.image = UIGraphicsGetImageFromCurrentImageContext();
 
 本次实验第一次接触到网络编程的知识，实际运用了http请求向相应的api获取数据并显示在前端，同时对于IOS本地缓存的操作有了了解和学习。本次实验最大的障碍在于判断请求的异步和同步以及线程的切换。
 
-## 参考文献
-
-[https://www.php1.cn/detail/iOS_LiYong_UITab_a7648c91.html](https://www.php1.cn/detail/iOS_LiYong_UITab_a7648c91.html)
-
-[https://blog.csdn.net/ltj1171528192/article/details/48914769](https://blog.csdn.net/ltj1171528192/article/details/48914769)
-
-[https://blog.csdn.net/ltj1171528192/article/details/48914769https://www.jianshu.com/p/d43a722f8ea1?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes](https://blog.csdn.net/ltj1171528192/article/details/48914769https://www.jianshu.com/p/d43a722f8ea1?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes)
-
-[全面解析iOS中同步请求、异步请求、GET请求、POST请求 (51sjk.com)](https://www.51sjk.com/b20b274334/)
