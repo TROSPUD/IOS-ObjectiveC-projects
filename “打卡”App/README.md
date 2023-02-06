@@ -1,14 +1,3 @@
-# 现代操作系统应用开发 实验2
-
-## 个人信息
-
-【院系】计算机学院
-
-【专业】软件工程
-
-【学号】20337037
-
-【姓名】洪梓
 
 ## 实验题目
 
@@ -617,17 +606,3 @@ Assigning to 'id<UITextViewDelegate> _Nullable' from incompatible type 'ClockinV
 **8.删除选择条目时返回的[indexpath row]始终返回0**
 
 解决:换成[indexpath section]
-
-本次实验学习了视图与布局/常用控件以及简易的UIView动画等，明白了组件等基本使用。过程中因为xcode版本问题也停滞了比较长一段时间，但最后还是比较成功地实现了实验的基本要求，从零开始构建一个ios app。
-
-## 参考文献
-
-[https://blog.csdn.net/Morris_/article/details/109021827](https://blog.csdn.net/Morris_/article/details/109021827)
-
-[https://blog.csdn.net/ocean_lxq/article/details/113882889](https://blog.csdn.net/ocean_lxq/article/details/113882889)
-
-[http://t.zoukankan.com/silence-cnblogs-p-6405545.html](http://t.zoukankan.com/silence-cnblogs-p-6405545.html)
-
-[https://www.kancloud.cn/cml244/javascript/1298361](https://www.kancloud.cn/cml244/javascript/1298361)
-
-[https://www.656463.com/wenda/rhsyUISearchResultsUpdatingxsssj_142](https://www.656463.com/wenda/rhsyUISearchResultsUpdatingxsssj_142)
